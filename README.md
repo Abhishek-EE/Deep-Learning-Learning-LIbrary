@@ -1,0 +1,2 @@
+# Deep-Learning-Learning-LIbrary
+As someone who very much stumbled into roles rather than carve his own path, I wanted to create a structured approach for my self and others like me so that if they want to pursue deep learning they have a path available. It is very much a selfish work because through this I hope to figure out the gaps in my own understanding of the concept and fill them as need be.
